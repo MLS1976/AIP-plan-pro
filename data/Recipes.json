@@ -1,0 +1,14 @@
+{
+  "Grilled Chicken Salad": {
+    "ingredients": ["chicken breast", "olive oil", "lettuce", "cucumber", "carrot"],
+    "instructions": "Grill chicken, chop veggies, toss with olive oil."
+  },
+  "Zucchini Noodles with Pesto": {
+    "ingredients": ["zucchini", "pesto", "cherry tomatoes", "olive oil"],
+    "instructions": "Spiralize zucchini, toss with pesto and cherry tomatoes."
+  },
+  "AIP Sweet Potato Hash": {
+    "ingredients": ["sweet potato", "coconut oil", "spinach", "garlic"],
+    "instructions": "Cook sweet potato in coconut oil, add garlic and spinach, sauté until tender."
+  }
+}
